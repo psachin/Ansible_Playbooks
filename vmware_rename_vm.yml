@@ -8,7 +8,7 @@
   vars:
     vcenter_hostname: '192.168.1.26'
     vcenter_user: 'administrator@home.net'
-    vcenter_pass: 'Smartvm!23'
+    vcenter_pass: 'Smartvm!24'
     datacenter: 'Coulsdon'
     esxi_host: '192.168.1.21'
 
